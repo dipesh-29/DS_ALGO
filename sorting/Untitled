@@ -1,0 +1,8 @@
+'''
+Given an array give the pair of element whose sum is equal to K.
+'''
+
+def sum_k_pair():
+
+
+if __name__=='__'

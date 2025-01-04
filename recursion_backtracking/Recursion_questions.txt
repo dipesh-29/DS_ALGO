@@ -1,0 +1,5 @@
+1. Check if number is palindrome
+2. All possible combinations of string
+
+Permutation and combinations
+1.
